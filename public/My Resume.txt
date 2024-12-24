@@ -1,0 +1,150 @@
+Pooja Shindhe
+
+
+poojashindhe13@gmail.com
+8431821737
+Vijayapura, India
+https://www.linkedin.com/in/pooja-shinde-936596195/
+https://github.com/PoojShinde
+
+
+
+------------------------
+Front-end Developer | Back-end Developer | Full Stack Developer
+
+
+------------------------
+Dedicated and detail-oriented Software Developer proficient in front and backend and well known in data structure and algorithms
+
+
+Work Experience
+------------------------
+Assistant System Engineer(Web Developer)
+Tata Consultancy Services
+05/2024 - Present
+Bangalore
+Achievements/Tasks
+
+
+
+Trainee - Ui full stack(angular)
+Hcl
+12/2022 - 07/2023
+Virtual
+Tasks
+- The HCL UI Full Stack Training is a comprehensive program designed to equip individuals with the skills and knowledge required to become proficient in both the front-end and back-end development of web applications. This training focuses on the User Interface (UI) aspects, as well as the broader Full Stack Development concepts, providing a well-rounded understanding of modern web development technologies and practices. 
+- The HCL UI Full Stack Training with HTML, CSS, Bootstrap, and Angular is a skill-building journey that covers a range of topics related to user interface design and front-end development. Participants will learn the essential building blocks of web development, including structuring content, designing layouts, styling elements, and adding interactive components. 
+
+
+
+Mern full stack developer(intern)
+lattech hubli
+09/2023 - 11/2023
+hubli
+startup which is in the bussiness of 5+ years
+Achievements/Tasks
+- as a mern fullstack developer i made several websites and contributes pages in real world project 
+
+
+
+
+
+
+Education
+------------------------
+MERN full stack developer
+Masai
+02/2024 - Present
+Bangalore
+Courses
+- part time course 
+- development & dSA 
+
+
+Bachelor of Engineering in computer science
+BLDEA's V.P. Dr.P.G.Halakatti College Of Engineering & Technology, Bijapur
+07/2019 - 05/2023
+7.2 cgpa
+Courses
+
+
+Puc
+Tungal Independent Pre-University Science College, Vijayapura
+06/2017 - 04/2019
+scored 87.5%
+Courses
+
+
+Sslc
+Tungal English Medium Highschool jamakhandi
+06/2015 - 05/2016
+scored 91.52%
+Courses
+
+
+
+
+
+Skills
+------------------------
+-Html
+-Css
+-Javascript
+-Reactjs
+-Java
+-Nodejs
+-Sql
+-Bootstrap
+-Git&Github
+-Express Js
+-MongoDB
+-Python
+-Tailwind css
+
+
+
+Personal Projects
+------------------------
+E commerce website
+08/2021 - 09/2021
+- Mini project 
+- Experienced in designing and developing e-commerce websites that merge aesthetics with functionality. Proficient in creating intuitive user interfaces, seamless navigation, and secure payment gateways. 
+- Tech Stack : HTML | CSS | JavaScript | SQL 
+
+
+car rental system
+03/2023 - 04/2023
+- angular project 
+-  The Car Rental System Project is a web-based application designed to facilitate the process of renting vehicles to customers. It provides an intuitive user interface for customers to browse available vehicles, make reservations, and manage their bookings. The project leverages HTML for structuring the web pages, Bootstrap for responsive and visually appealing designs, Angular for dynamic front-end interactions, and JSON for data storage and retrieval.  
+- Teck Stack : HTML | Bootstrap | Angular |JSON | Git 
+
+
+Voice based email system for visually impaired
+02/2023 - 05/2023
+- Major project 
+- We have seen that the inception of Internet has dramatically revolutionized many fields. Internet has made life of people so easy that people today have access to any information they want sitting at their home. One of the main fields that Internet has revolutionized is communication 
+- Tech Stack: Python |AI | STT module |GTTS |SMTP| IVR 
+
+
+
+
+
+certificates
+------------------------
+#Startupindia learning program
+03/2020 - 01/2020
+by National Investment Promotion agency
+
+
+
+
+
+Languages
+------------------------
+-english- (60/100)
+-kannada- (100/100)
+-hindi- (100/100)
+-marathi- (80/100)
+
+
+
