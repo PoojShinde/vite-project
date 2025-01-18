@@ -62,7 +62,7 @@ function Footer() {
         </div>
       </div>
       <div className="font-light text-sm text-start mt-4 md:mt-0">
-        <small>Copyright &copy; 2023 by Pooja Shindhe</small>
+        <small>Copyright &copy; 2025 by Pooja Shindhe🖤</small>
         <br />
         <small>All rights reserved</small>
       </div>

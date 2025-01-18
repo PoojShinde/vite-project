@@ -219,10 +219,10 @@ function Resume() {
 
         <h3 className="text-xl font-semibold mb-2">Languages</h3>
         <ul className="list-disc list-inside">
-          <li>English (60/100)</li>
-          <li>Kannada (100/100)</li>
-          <li>Hindi (100/100)</li>
-          <li>Marathi (80/100)</li>
+          <li>English </li>
+          <li>Kannada </li>
+          <li>Hindi </li>
+          <li>Marathi</li>
         </ul>
       </div>
       

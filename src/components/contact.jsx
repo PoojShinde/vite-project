@@ -217,7 +217,7 @@
 // export default Contact;
 
 import React, { useState } from 'react';
-import emailjs from 'emailjs-com'; // Make sure to add emailjs to your project
+import emailjs from 'emailjs-com'; // Ensure emailjs is installed
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -236,14 +236,18 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const serviceID = 'service_9mm7vur'; // Your service ID
-    const templateID = 'template_dukdixj'; // Your template ID
+    const serviceID = 'service_9mm7vur'; // Your EmailJS service ID
+    const templateID = 'template_dukdixj'; // Your EmailJS template ID
+    const userID = 'ObkeGImf_ROWEN8dH'; // Your EmailJS user ID
+
+    // Debugging: Log formData to ensure data is correct
+    console.log('Form Data:', formData);
 
     // Send email using EmailJS
     emailjs
-      .sendForm(serviceID, templateID, e.target, 'ObkeGImf_ROWEN8dH')
+      .sendForm(serviceID, templateID, e.target, userID)
       .then((response) => {
-        console.log('Email sent successfully', response);
+        console.log('Email sent successfully:', response);
         alert('Your message has been sent!');
         setFormData({
           name: '',
@@ -252,17 +256,17 @@ function Contact() {
         });
       })
       .catch((error) => {
-        console.error('Error sending email', error);
-        alert('Something went wrong, please try again!');
+        console.error('Error sending email:', error);
+        alert(`Error: ${error.text || 'Something went wrong. Please try again!'}`);
       });
   };
 
   return (
-    <div className="relative bg-gradient-to-r from-white via-teal-500 to-yellow-500 min-h-screen flex items-center justify-cent md:mx-40   rounded-lg">
+    <div className="relative bg-gradient-to-r from-white via-teal-500 to-yellow-500 min-h-screen flex items-center justify-cent md:mx-40 rounded-lg">
       <div className="absolute inset-0 bg-opacity-40 bg-black"></div>
       <div className="relative z-10 w-full max-w-2xl mx-auto px-4 py-12">
         <div className="bg-white rounded-lg shadow-lg p-8 sm:p-12">
-          <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">Contact Us</h2>
+          <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">Contact Me</h2>
           <form onSubmit={handleSubmit}>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div>

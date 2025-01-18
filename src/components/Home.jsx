@@ -52,14 +52,18 @@
 // export default Home;
 
 import React from "react";
-
+import { useNavigate } from 'react-router-dom';
 function Home() {
+
+  const navigate = useNavigate();
   const downloadResume = () => {
     // Open the Google Drive link in a new tab
-    const driveLink = "https://drive.google.com/file/d/1aYM8CF07kJkl9pju8erTEhajFxp0uO0r/view?usp=sharing";
-    window.open(driveLink, "_blank");
-  };
+    navigate('/Resume'); // Redirects to the Contact page
 
+  };
+  const openContact = () => {
+    navigate('/contact'); // Redirects to the Contact page
+  };
   return (
     <div className="flex flex-col md:flex-row justify-center items-center h-screen p-4">
       {/* Image Section */}
@@ -84,12 +88,12 @@ function Home() {
             className="w-28 h-28 md:w-32 md:h-32 rounded-full bg-yellow-500 border-black border hover:bg-white flex items-center justify-center cursor-pointer"
             onClick={downloadResume}
           >
-            <a className="text-black font-bold" href="#">
+            <a className="text-black font-bold" >
               Resume
             </a>
           </div>
-          <div className="w-28 h-28 md:w-32 md:h-32 rounded-full bg-teal-300 border-black border hover:bg-white flex items-center justify-center">
-            <a className="text-black font-bold" href="/contact">
+          <div className="w-28 h-28 md:w-32 md:h-32 rounded-full bg-teal-300 border-black border hover:bg-white flex items-center justify-center cursor-pointer" onClick={openContact}>
+            <a  className="text-black font-bold" >
               Contact
             </a>
           </div>
